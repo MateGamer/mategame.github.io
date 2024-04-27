@@ -1,0 +1,26 @@
+body{
+    text-align: center;
+    background-color: black;
+}
+.titulo{
+    color: white;
+}
+.frase{
+    color: white;
+    font-weight: bold;
+}
+.BIO{
+    color: white;
+    font-weight: bold;
+}
+p{
+    color: white;
+}
+h2{
+    color: white;
+}
+img{
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+}
